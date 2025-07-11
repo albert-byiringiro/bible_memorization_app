@@ -1,44 +1,30 @@
-# Bible Memorization App
+# Bible Memorization tool
 
-A simple, private web app to help users memorize Bible verses using proven techniques inspired by John Piper.
+*Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-## Features
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/albert-byiringiros-projects/v0-keep-it-cool)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/hWpWGWbkKZK)
 
-- Select or input Bible verses or passages to memorize.
-    
-- Guided memorization steps:
-    
-    - Read the verse 10 times.
-        
-    - Recite the verse 10 times from memory.
-        
-    - Daily review and repetition.
-        
-- Gentle reminders or timers for daily practice.
-    
-- Virtual “memory cards” to review anytime.
-    
-- All data (verses, progress, notes) stored locally in the browser — no registration or server needed.
-    
-- Simple, distraction-free interface focused on meditation and repetition.
-    
-- Optional highlighting of words or phrases to aid memorization.
-    
-- Space for personal reflections and notes.
-    
+## Overview
 
-## Why This App?
+This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
-Inspired by John Piper’s approach to Scripture memory, this app supports prayerful, disciplined memorization that helps internalize God’s Word deeply and personally.
+## Deployment
 
-## Getting Started
+Your project is live at:
 
-Open the app in your browser and start adding verses to memorize. Your progress and notes are saved automatically on your device.
+**[https://vercel.com/albert-byiringiros-projects/v0-keep-it-cool](https://vercel.com/albert-byiringiros-projects/v0-keep-it-cool)**
 
-## Technologies Used
+## Build your app
 
-- NextJS
-    
-- LocalStorage for data persistence
-    
-- Simple UI/UX for focused memorization
+Continue building your app on:
+
+**[https://v0.dev/chat/projects/hWpWGWbkKZK](https://v0.dev/chat/projects/hWpWGWbkKZK)**
+
+## How It Works
+
+1. Create and modify your project using [v0.dev](https://v0.dev)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
